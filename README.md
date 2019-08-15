@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nuomijs/nuomi-docs.svg?branch=master)](https://travis-ci.org/nuomijs/nuomi-docs)
+
 ## 介绍
 使用<a href="https://cn.vuejs.org/" target="_blank">vuepress</a>搭建的静态网站
 
